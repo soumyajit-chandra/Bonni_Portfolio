@@ -1,0 +1,144 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: rgb(227, 250, 253);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    background-color: rgb(241, 253, 252);
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 20px;
+}
+
+.name{
+    color: rgb(5, 24, 194);
+    float: left;
+    padding: 20px 20px;
+}
+
+#phto{
+    border:rgb(106, 180, 180) 3px solid;
+    border-radius: 50%;
+    display: inline;
+    float: left;
+}
+.contact{
+    float: right;
+    color: rgb(5, 24, 194);
+    padding: 20px 20px;
+}
+.contact p,a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(5, 24, 194);
+    font-weight: bold;
+
+}
+.contact a:hover{
+    color: rgb(233, 33, 6);
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    margin: 10px auto;
+    border: rgb(5, 24, 194) 2px solid;
+    width: 100%;
+    border-bottom: none;
+}
+
+.aboutme p{
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.left-div{
+    float: left;
+    width: 25%;
+    color: rgb(5, 24, 194);
+}
+.right-div{
+    float: left;
+    width: 75%;
+    padding-top: 13px;
+}
+.left-div{
+    float: left;
+    width: 25%;
+    color: rgb(5, 24, 194);
+}
+.right-div{
+    float: left;
+    width: 75%;
+}
+.common-hr{
+    border: midnightblue solid 1px;
+    width: 100%;
+    border-bottom: none;
+    margin: 3 auto;
+}
+.edu-left-template{
+    width:45%;
+    float: left;  
+}
+.edu-right-template{
+    width:50%;
+    float: right;  
+}
+.mca{
+   color: rgb(5, 81, 153);
+}
+.bca{
+    color: rgb(5, 81, 153);
+}
+.hs{
+    color: rgb(5, 81, 153);
+}
+.mp{
+    color: rgb(5, 81, 153);
+}
+.left-div{
+    float: left;
+    width: 30%;
+    padding-top: 11px;
+    color: rgb(5, 24, 194);
+}
+.right-div{
+    float: left;
+    width: 70%;
+}
+.right-div ul{
+    font-weight: bold;
+}
+.right-div ul,li{
+    font-size: 0.9rem;
+}
+.left-div{
+    float: left;
+    width: 30%;
+    padding-top: 11px;
+    color: rgb(5, 24, 194);
+}
+.right-div{
+    float: left;
+    width: 70%;
+}
+footer{
+    text-align: center;
+    background-color: lightcyan;
+}
+footer a{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 18px;
+}
+footer a:hover{
+    color: rgb(233, 33, 6);
+}
+footer p{
+    padding-top: 9px;
+}
