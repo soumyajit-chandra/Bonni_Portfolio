@@ -1,1 +1,1 @@
-<?php include("CV.html"); ?>
+<?php include("index.html"); ?>
